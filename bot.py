@@ -11,7 +11,7 @@ from telegram.ext import (
 # ================= CONFIGURATION =================
 TOKEN = "8986448248:AAH5rirPfxkZVVZHNYvWE080-kWHqWnXQck"
 DEFAULT_UPI_ID = "bharatpe.8y0l1s2n7z76332@fbpe"
-ADMIN_ID = 8884505923  # Screenshot ke hisab se updated (Agar different hai toh apni ID daalna)
+ADMIN_ID = 8338184748  # Screenshot ke hisab se updated (Agar different hai toh apni ID daalna)
 CUSTOM_QR_PATH = "custom_qr.png"
 
 # Conversation States
